@@ -1,4 +1,16 @@
 # Markdown-Learning
+
+## What is Markdown
+Markdown is a lightweight markup language that many technical professionals use to create and edit technical documents.
+
+## Why Markdown (Benefit)
+
+### Portability and Durability
+
+### Versatility
+
+### Workflow Benefits
+
 ## Basic
 Some samples for learning basic of markdown scripts.
 
